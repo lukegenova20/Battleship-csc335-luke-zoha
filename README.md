@@ -9,7 +9,7 @@ This program is a battleship clone written by Luke Genova and Amimul Eshan Zoha 
 - The type of instance created is based on what command line arguments are inputted.
   - **Here is the command line argument structure when starting the program: (server or client) (port number).**
   
-- Each instance will create a GUI application that interacts with the users. Once the GUIS are displayed, the game is ready to play.
+- Each instance will create a GUI application that interacts with the users. Once the GUIs are displayed, the game is ready to play.
 
 - Here is how the game works:
   1. Each player must place all of their ships anywhere on their grid before making a move.
